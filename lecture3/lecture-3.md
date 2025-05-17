@@ -4,7 +4,7 @@
 
 This Go program demonstrates how to work with strings using the `strings` package and prints output using `fmt`.
 
-### 🔹 Code Highlights
+### 🔹 Code Highlights.
 
 - Uses a constant base string: `"GO lang Lecture 3 about Strings"`
 - Demonstrates how to transform, inspect, and manipulate string content
