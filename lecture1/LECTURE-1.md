@@ -35,7 +35,7 @@ The program defines two functions outside `main()` and calls them within `main()
 - Using the standard `fmt` package
 - Using `main()` as the entry point
 
-## 🚨 Important Tip
+## 🚨 Important Tip.
 
 `fmt.Sprintln(...)` returns a formatted string but does not print it.  
 To properly print with format like `%d`, use `fmt.Printf(...)` or store the result of `Sprintln` in a variable and print that.
