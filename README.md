@@ -13,6 +13,10 @@ Before starting the lessons, make sure your development environment is ready:
 
 ---
 
+![Go Course Logo](https://github.com/profmaddo/go-language-fundamentals-for-beginners-by-Marco-Maddo/blob/main/images/post-curso-go-language.png?raw=true)
+
+---
+
 ## 🤝 Connect with Me
 
 If you're enjoying this Go course and want to stay updated with future content:
