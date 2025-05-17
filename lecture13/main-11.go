@@ -70,7 +70,7 @@ func printLectureTitle() {
 
 // printAddress prints the memory address of a variable
 func printAddress(x int) {
-	fmt.Printf("Address of x: %p "", &x)
+	fmt.Printf("Address of x: %p ", &x)
 }
 
 // modifyByValue demonstrates that passing by value does not modify the original
