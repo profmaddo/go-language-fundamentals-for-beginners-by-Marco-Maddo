@@ -1,6 +1,6 @@
 # 🧑‍💻 Go Programming Course for Beginners
 
-Welcome to the Go Programming Course! This repository contains a series of structured lessons (`LECTURE-1.md` to `LECTURE-5.md`) designed for beginners in both programming and the Go language. Each lesson includes a complete `main.go` file and a Markdown explanation in English and Portuguese.
+Welcome to the Go Programming Course! This repository contains a series of structured lessons (`LECTURE-1.md` to `LECTURE-6.md`) designed for beginners in both programming and the Go language. Each lesson includes a complete `main.go` file and a Markdown explanation in English and Portuguese.
 
 ---
 
@@ -43,6 +43,14 @@ Welcome to the Go Programming Course! This repository contains a series of struc
 **EN**: Discover how to control the flow of your Go programs using `if`, `else`, `else if`, and `switch` statements. You’ll learn to evaluate conditions and make decisions in your code.
 
 **PT**: Descubra como controlar o fluxo dos seus programas Go usando as estruturas `if`, `else`, `else if` e `switch`. Você aprenderá a avaliar condições e tomar decisões dentro do seu código.
+
+---
+
+### ✅ LECTURE 6: Loops and Repetition in Go
+
+**EN**: Learn how to repeat actions using different types of loops in Go. This lesson covers traditional `for` loops, condition-based loops, range-based iterations over slices and strings, and nested loops.
+
+**PT**: Aprenda a repetir ações utilizando diferentes tipos de laços em Go. Esta aula aborda o `for` clássico, loops baseados em condição, iteração com `range` sobre slices e strings, além de loops aninhados.
 
 ---
 
