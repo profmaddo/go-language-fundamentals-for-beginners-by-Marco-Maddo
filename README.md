@@ -13,6 +13,15 @@ Before starting the lessons, make sure your development environment is ready:
 
 ---
 
+## 🤝 Connect with Me
+
+If you're enjoying this Go course and want to stay updated with future content:
+
+👉 **[Follow me on LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=marcomaddo)**  
+I regularly share free programming content, tutorials, and tech insights.
+
+---
+
 ## 📚 Lesson Guide (Roteiro de Aulas)
 
 ### ✅ LECTURE 1: Go Language Fundamentals  
