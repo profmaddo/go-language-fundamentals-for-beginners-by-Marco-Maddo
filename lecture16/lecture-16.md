@@ -9,7 +9,7 @@ Object-Oriented Programming (OOP) is a way to organize code using real-world con
 ### 🧱 The Four Pillars of OOP in Go
 
 #### 1. Abstraction
-Simplifies complex reality by modeling classes/structs based on relevant attributes and behaviors.
+Simplifies complex reality by modeling classes/structs based on relevant attributes and behaviors
 ```go
 type Person struct {
     name string
