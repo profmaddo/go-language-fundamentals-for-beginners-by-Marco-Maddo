@@ -22,7 +22,7 @@ This Go program demonstrates how to work with floating point numbers using two t
 
 ### 🔹 float32 vs float64
 
-| Type     | Precision | Typical Use                          |
+| Type     | Precision | Typical Use.                          |
 |----------|-----------|--------------------------------------|
 | float32  | ~7 digits | Saves memory, faster on some CPUs    |
 | float64  | ~15 digits| Default type for high-precision math |
