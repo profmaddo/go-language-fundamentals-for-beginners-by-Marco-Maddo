@@ -1,6 +1,6 @@
 # 🧑‍💻 Go Programming Course for Beginners
 
-Welcome to the Go Programming Course! This repository contains a series of structured lessons (`LECTURE-1.md` to `LECTURE-13.md`) designed for beginners in both programming and the Go language. Each lesson includes a complete `main.go` file and a Markdown explanation in English and Portuguese.
+Welcome to the Go Programming Course! This repository contains a series of structured lessons (`LECTURE-1.md` to `LECTURE-16.md`) designed for beginners in both programming and the Go language. Each lesson includes a complete `main.go` file and a Markdown explanation in English and Portuguese.
 
 ---
 
@@ -79,6 +79,18 @@ I regularly share free programming content, tutorials, and tech insights.
 ### ✅ LECTURE 13: Pointers in Go  
 **EN**: Learn how to use `*` and `&` in Go to pass data by reference, access memory addresses, and modify values directly. Includes pointer manipulation with variables, slices, and structs.  
 **PT**: Aprenda a usar `*` e `&` em Go para passar dados por referência, acessar endereços de memória e modificar valores diretamente. Inclui ponteiros com variáveis, slices e structs.
+
+### ✅ LECTURE 14: Structs in Go  
+**EN**: Learn to declare and use structs to group related fields together. Includes composition, nesting, and operations on struct collections.  
+**PT**: Aprenda a declarar e usar structs para agrupar campos relacionados. Inclui composição, aninhamento e operações com coleções de structs.
+
+### ✅ LECTURE 15: Methods with Structs in Go  
+**EN**: Create methods attached to structs to define behavior. Includes pointer receivers and business logic examples.  
+**PT**: Crie métodos associados a structs para definir comportamentos. Inclui receivers com ponteiros e exemplos de lógica de negócio.
+
+### ✅ LECTURE 16: Introduction to OOP in Go  
+**EN**: Learn the 4 pillars of Object-Oriented Programming (Abstraction, Encapsulation, Inheritance via Composition, and Polymorphism) using Go. Includes real-world struct modeling, interface usage, and method organization.  
+**PT**: Aprenda os 4 pilares da Programação Orientada a Objetos (Abstração, Encapsulamento, Herança via Composição e Polimorfismo) com Go. Inclui modelagem de structs reais, uso de interfaces e organização de métodos.
 
 ---
 
