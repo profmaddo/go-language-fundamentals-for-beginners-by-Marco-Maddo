@@ -4,6 +4,15 @@ Welcome to the Go Programming Course! This repository contains a series of struc
 
 ---
 
+## 📥 Environment Setup
+
+Before starting the lessons, make sure your development environment is ready:
+
+📄 **[Initial Setup Guide – Install Go, VS Code and Git](./INITIAL-SETUP.md)**  
+📄 **[Guia de Instalação Inicial – Instale Go, VS Code e Git](./INITIAL-SETUP.md)**
+
+---
+
 ## 📚 Lesson Guide (Roteiro de Aulas)
 
 ### ✅ LECTURE 1: Go Language Fundamentals
