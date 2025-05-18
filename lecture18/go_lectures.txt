@@ -1,0 +1,17 @@
+LECTURE 1: Go Language Fundamentals
+LECTURE 2: Floating Point Numbers
+LECTURE 3: String Manipulation
+LECTURE 4: Numeric Data Types
+LECTURE 5: Decision Making
+LECTURE 6: Loops and Repetition
+LECTURE 7: Reading Input
+LECTURE 8: Arrays and Slices
+LECTURE 9: Operators
+LECTURE 10: Maps
+LECTURE 11: Functions with Return
+LECTURE 12: Advanced Functions
+LECTURE 13: Pointers
+LECTURE 14: Structs
+LECTURE 15: Methods
+LECTURE 16: OOP in Go
+LECTURE 17: Error Handling
